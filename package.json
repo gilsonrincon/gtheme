@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gilsonrincon/gtheme/issues"
   },
-  "homepage": "https://github.com/gilsonrincon/gtheme#readme"
+  "homepage": "https://github.com/gilsonrincon/gtheme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
 }
