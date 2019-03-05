@@ -1,0 +1,23 @@
+{
+  "name": "gtheme",
+  "version": "1.0.0",
+  "description": "A theme developed by Gilson Rincón",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonrincon/gtheme.git"
+  },
+  "keywords": [
+    "WordPress",
+    "theme"
+  ],
+  "author": "Gilson Rincón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsonrincon/gtheme/issues"
+  },
+  "homepage": "https://github.com/gilsonrincon/gtheme#readme"
+}
